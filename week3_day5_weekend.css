@@ -1,0 +1,142 @@
+nav{
+	/*margin-bottom: -50px;*/
+	z-index: 1;
+}
+.div1{
+	height: 10px;
+}
+.img1{
+	
+	float: right;
+	background-color: transparent;
+	margin-left: 100px;
+}
+.div2{
+	z-index: 2;
+	/*background-image: url(img/header_bg.jpg);*/
+	/*margin-top: -274px;*/
+	width: 100%;
+	height:500px auto;
+	background-repeat: no-repeat;
+	background-color: green;
+	margin: 0 ; 
+ 	padding: 0;
+    /*background-size: cover;*/
+ /*   height: 232px;*/
+    background-color: white
+}
+
+.div3{
+	
+	width: 100%;
+	height:250px;
+	background-color: #F5F5F5;
+		vertical-align: middle;
+	text-align: center;
+	overflow: hidden;
+}
+.div3_1{
+	height: 250px ;
+	float: left;
+	margin-right-width:5%;
+	
+}
+.div3_2{
+	height: 250px;
+	float: left;
+	margin-left-width:50px;
+}
+.div3_3{
+	height: 250px;
+}
+.img3, .img4, .img5{
+	float: center;
+	/*padding-left: 45%;*/
+	vertical-align: middle;
+	text-align: center;
+	width:60px auto;
+	height:60px auto;
+}
+.div4{
+	height: 440px;
+	width: 100%;
+	vertical-align: middle;
+	text-align: center;
+	overflow: hidden;
+	font-size: 200%;
+}
+}
+.div4_1{
+	height: 150px;
+	font-size: 200%;
+	width: 100%;
+	float: left;
+}
+.div4_2_1, .div_2_2{
+	width: 50%;
+	height: 290px;
+	float: left;
+}
+.div5{
+	height: 350px auto;
+/*	width: 100%;*/
+}
+.img6{
+	width: 100%;
+	height: 350px;
+	margin: 0;
+	padding: 0;
+}
+.div6_1, .div6_3{
+	font-size: 200%;
+	text-align: center;
+	overflow: hidden;
+}
+.div6_4{
+	height: 490px;
+}
+.div6{
+	vertical-align: middle;
+	text-align: center;
+	overflow: hidden;
+}
+.div7{
+	height: 350px;
+}
+.div8{
+	font-size: 200%;
+		vertical-align: middle;
+	text-align: center;
+	overflow: hidden;
+}
+.img7{
+	height: 350px auto;
+}
+.img8{
+	height: 487px auto;
+	width: 100%;
+}
+.div9{
+	width: 100%;
+	height: 460px;
+	background-color: #f5f5f5;
+			vertical-align: middle;
+	text-align: center;
+	overflow: hidden;
+}
+}
+.div_9_1 img{
+	margin-left: 50px;
+}
+.div9_2{
+ float: left;
+ 		vertical-align: right;
+	text-align: right;
+	overflow: hidden;
+}
+.div10{
+	height: 3196px;
+}
+.img10{
+	height: 3196px auto;
+}
